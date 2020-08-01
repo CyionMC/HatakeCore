@@ -33,8 +33,6 @@ HatakeCore is build on the following libraries and frameworks:
 ## Authors and Acknowledgements
 
 * Unix
-
-* RedInginer_
 	
 ***
 
