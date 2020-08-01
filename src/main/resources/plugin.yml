@@ -1,0 +1,4 @@
+name: 'HatakeCore'
+main: 'net.unix.hatakecore.core.basic.HatakeCorePlugin'
+author: 'Unix'
+version: '1.0'

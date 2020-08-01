@@ -1,0 +1,43 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.idea/workspace.xml
+.idea/misc.xml
+.idea/compiler.xml
+.idea/vcs.xml
+.idea/modules.xml
+HatakeCore.iml
+.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml
+.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml
+.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_9_1.xml
+.idea/libraries/Maven__org_jetbrains_annotations_16_0_2.xml
+.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml
+.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml
+.idea/libraries/Maven__com_google_guava_guava_19_0.xml
+.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml
+.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml
+.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml
+.idea/libraries/Maven__junit_junit_4_10.xml
+.idea/libraries/Maven__org_avaje_ebean_2_8_1.xml
+.idea/libraries/Maven__net_md_5_bungeecord_chat_1_8_SNAPSHOT.xml
+.idea/libraries/Maven__org_github_paperspigot_paperspigot_api_1_8_8_R0_1_SNAPSHOT.xml
